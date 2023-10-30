@@ -5,7 +5,7 @@ const Signin = () => {
   return (
     <div
       id="inter"
-      className="bg-white h-full px-4 sm:px-8 lg:px-[100px] flex flex-col gap-y-12 py-20 "
+      className="bg-white h-full px-4 sm:px-8 lg:px-[100px] flex flex-col gap-y-12 py-20 pt-6"
     >
       <img className="w-[11rem]" src={logo} alt="" />
 
